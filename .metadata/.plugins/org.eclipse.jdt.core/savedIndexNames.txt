@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+C:\Users\italo\OneDrive\Documents\JavaPOO\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3959137331.index
+2740675604.index
+2755043341.index
+1677501788.index
+3132313831.index
+1245233441.index
