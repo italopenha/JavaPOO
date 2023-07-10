@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="interfaces.RepositorioLutador"/>
+    <fullyQualifiedTypeName name="classes.Lutador"/>
+    <fullyQualifiedTypeName name="interfaces.RepositorioLuta"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="classes.Luta"/>
+</qualifiedTypeNameHistroy>
