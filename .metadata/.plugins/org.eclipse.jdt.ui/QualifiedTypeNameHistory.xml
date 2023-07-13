@@ -5,4 +5,23 @@
     <fullyQualifiedTypeName name="interfaces.RepositorioLuta"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="classes.Luta"/>
+    <fullyQualifiedTypeName name="classes.Livro"/>
+    <fullyQualifiedTypeName name="interfaces.Publicacao"/>
+    <fullyQualifiedTypeName name="classes.Funcionario"/>
+    <fullyQualifiedTypeName name="classes.Pessoa"/>
+    <fullyQualifiedTypeName name="classes.Visitante"/>
+    <fullyQualifiedTypeName name="classes.Aluno"/>
+    <fullyQualifiedTypeName name="classes.Bolsista"/>
+    <fullyQualifiedTypeName name="classes.Professor"/>
+    <fullyQualifiedTypeName name="classes.Tecnico"/>
+    <fullyQualifiedTypeName name="classes.Mamifero"/>
+    <fullyQualifiedTypeName name="classes.Reptil"/>
+    <fullyQualifiedTypeName name="classes.Peixe"/>
+    <fullyQualifiedTypeName name="classes.Ave"/>
+    <fullyQualifiedTypeName name="classes.Canguru"/>
+    <fullyQualifiedTypeName name="classes.Cachorro"/>
+    <fullyQualifiedTypeName name="classes.Tartaruga"/>
+    <fullyQualifiedTypeName name="classes.Salmao"/>
+    <fullyQualifiedTypeName name="classes.Arara"/>
+    <fullyQualifiedTypeName name="classes.Cobra"/>
 </qualifiedTypeNameHistroy>
